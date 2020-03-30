@@ -2,7 +2,7 @@
 using System.Collections;
 
 namespace AriePG {
-    [CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/Actions/Move", order = 1)]
+    [CreateAssetMenu(fileName = "Move", menuName = "ScriptableObjects/Actions/Move", order = 1)]
     public class MoveAction : Action {
 
         [SerializeField] private Vector2 move;

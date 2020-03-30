@@ -21,3 +21,5 @@ MonoBehaviour:
     m_Key: 97
   - m_Action: {fileID: 11400000, guid: b2c7eef964b236441bb9057d4261c439, type: 2}
     m_Key: 100
+  - m_Action: {fileID: 11400000, guid: 89b5e315273f33c4a89dceebcf485b4a, type: 2}
+    m_Key: 32
